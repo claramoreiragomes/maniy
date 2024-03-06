@@ -1,9 +1,13 @@
+:root {
+    --maria:#7ee8f7;
+}
+
 body {
-    background-color: lightskyblue;
-    ;
+    background-color: var(--maria);
+
 }
 
 img {
-    width:41% ;
-    
+    width: 41%;
+
 }
