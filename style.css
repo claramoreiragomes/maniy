@@ -16,4 +16,6 @@ header{
     align-items: center;
     justify-content: space-around;
 }
-section
+section{
+    display: flex;
+}
