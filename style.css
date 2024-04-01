@@ -20,9 +20,16 @@ header{
 section{
     display: flex;
     background-color: var(--branco);
-    border-radius: 25px;
-    /* border-style: dotted; */
-    /* border-width: 4px; */
-    /* border-color: teal; */
-    border: dotted 3px teal;
+    element.style {
+        border-radius: 25px;
+        /* border-style: dotted; */
+        /* border-width: 4px; */
+        /* border-color: teal; */
+        border: dotted 3px teal;
+        margin: 20px 40px 10px 5px;
+        padding: 98px;
+}
+.lindas{
+    display: grid;
+grid-template-columns: 33% 33% 33%;
 }
