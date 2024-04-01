@@ -1,5 +1,6 @@
 :root {
     --maria:#66deee;
+    --branco:#ffffff;
 }
 
 body {
@@ -18,5 +19,5 @@ header{
 }
 section{
     display: flex;
-    background-color:var(--maria);
+    background-color:var(--branco)
 }
