@@ -18,5 +18,5 @@ header{
 }
 section{
     display: flex;
-    background-color: cadetblue;
+    background-color:var(--maria);
 }
