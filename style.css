@@ -32,4 +32,6 @@ section{
 .lindas{
     display: grid;
 grid-template-columns: 33% 33% 33%;
+background-color: var(--branco);
+text-align: center;
 }
