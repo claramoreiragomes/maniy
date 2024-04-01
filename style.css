@@ -1,6 +1,6 @@
 :root {
-    --maria:#66deee;
-    --branco:#ffffff;
+    --maria: #66deee;
+    --branco: #ffffff;
 }
 
 body {
@@ -12,14 +12,17 @@ img {
     width: 30%;
 
 }
-header{
+
+header {
     display: flex;
     align-items: center;
     justify-content: space-around;
 }
-section{
+
+section {
     display: flex;
     background-color: var(--branco);
+
     element.style {
         border-radius: 25px;
         /* border-style: dotted; */
@@ -28,13 +31,15 @@ section{
         border: dotted 3px teal;
         margin: 20px 40px 10px 5px;
         padding: 98px;
-}
-.lindas{
-    display: grid;
-grid-template-columns: 33% 33% 33%;
-background-color: var(--branco);
-text-align: center;
-}
-.img-intro{
-    width: 40%;
-}
+    }
+
+    .lindas {
+        display: grid;
+        grid-template-columns: 33% 33% 33%;
+        background-color: var(--branco);
+        text-align: center;
+    }
+
+    .img-intro {
+        width: 40%;
+    }
