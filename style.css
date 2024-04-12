@@ -37,7 +37,7 @@ element.style {
 .lindas {
     display: grid;
     grid-template-columns: 33% 33% 33%;
-    background-color: var(--branco);
+    background-color: thistle;
     text-align: center;
 }
 
