@@ -29,7 +29,7 @@ element.style {
     /* border-style: dotted; */
     /* border-width: 4px; */
     /* border-color: teal; */
-    border: dotted 3px teal;
+    border: dotted 3px thistle;
     margin: 20px 40px 10px 5px;
     padding: 98px;
 }
