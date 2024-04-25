@@ -1,5 +1,6 @@
-*{
-    margin: 20px;%;
+* {
+    margin: 20px;
+    %;
 }
 
 :root {
@@ -55,10 +56,10 @@ element.style {
 
 foother {
     background-color: rgb(5, 243, 243);
-    color:#ffffff
+    color: #ffffff
 }
 
-a{
+a {
     color: black;
     text-decoration: none;
 
