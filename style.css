@@ -4,7 +4,7 @@
 }
 
 :root {
-    --maria: #66deee;
+    --maria: #D7F5F5;
     --branco: #ffffff;
 }
 
@@ -19,15 +19,10 @@ img {
 }
 
 header {
-    display: flex;
-    align-items: center;
+    
     justify-content: space-around;
 }
 
-section {
-    display: flex;
-    background-color: var(--branco);
-}
 
 element.style {
     border-radius: 25px;
