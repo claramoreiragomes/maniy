@@ -65,7 +65,7 @@ a {
 
 .primeiro{
     display: grid;
-    grid-template-columns: 44% 44% 44%;
+    grid-template-columns: 35% 35% 35%;
     text-align: center;
     align-items: center;
 }
