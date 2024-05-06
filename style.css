@@ -40,6 +40,7 @@ element.style {
     grid-template-columns: 33% 33% 33%;
     background-color: FCE3E3;
     text-align: center;
+    background-color: #FCE3E3;
 }
 
 .img-intro {
